@@ -2,6 +2,9 @@
 
 ### Ruby
 
+* [Pluralsight Ruby Video Tutorial](https://www.pluralsight.com/courses/ruby-beyond-the-basics)
+* [San Antonio 2014 RubyConf Vidoes](http://confreaks.tv/events/rubyconf2015)
+
 ### Ruby on Rails
 
 ### Design Patterns
