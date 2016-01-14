@@ -20,6 +20,7 @@
 ### Docker
 
 * [Docker Tutorial Videos](https://www.youtube.com/playlist?list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h)
+* [Using Docker for Rails Development](https://blog.codeship.com/using-docker-for-rails-development/)
 
 ### Useful Web Tools
 
