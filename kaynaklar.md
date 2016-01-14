@@ -21,6 +21,7 @@
 
 * [Docker Tutorial Videos](https://www.youtube.com/playlist?list=PLkA60AVN3hh_6cAz8TUGtkYbJSL2bdZ4h)
 * [Using Docker for Rails Development](https://blog.codeship.com/using-docker-for-rails-development/)
+* [Dockerizing a Ruby on Rails Application](https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application)
 
 ### Useful Web Tools
 
